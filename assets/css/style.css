@@ -5951,6 +5951,10 @@ hr.title-line {
    background-color: #332323; ;
 }
 
+.bg-blue {
+  background-color:   #3a23a6 !important
+}
+
 .bg-black {
     background-color: var(--black-color) !important
 }
@@ -10465,7 +10469,8 @@ ol.wp-block-rss {
 }
 
 .header-layout6 .header-top {
-    background: var(--black-color2);
+    background: #3419b5;;
+    /* background: var(--black-color2); */
     padding: 17.5px 0
 }
 
