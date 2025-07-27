@@ -5908,7 +5908,8 @@ hr.title-line {
 }
 
 .bg-gray {
-    background-color: var(--gray-color) !important
+    background-color: #03092b ;
+    /* background-color: var(--gray-color) !important */
 }
 
 .bg-gray2 {
