@@ -5952,7 +5952,8 @@ hr.title-line {
 }
 
 .bg-blue {
-  background-color:   #3a23a6 !important
+  background-color:   #0e1644 !important
+  /* background-color:   #3a23a6 !important */
 }
 
 .bg-black {
@@ -9472,7 +9473,7 @@ ol.wp-block-rss {
     font-weight: 400;
     top: 0;
     font-size: .9em;
-    color: var(--white-color);
+    color: var(--black-color);
     -webkit-transition: .3s ease-in-out;
     transition: .3s ease-in-out
 }
@@ -10469,7 +10470,8 @@ ol.wp-block-rss {
 }
 
 .header-layout6 .header-top {
-    background: #3419b5;;
+    /* background: #3419b5;; */
+    background: #0e1644 ;
     /* background: var(--black-color2); */
     padding: 17.5px 0
 }
